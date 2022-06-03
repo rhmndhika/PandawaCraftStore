@@ -1,0 +1,36 @@
+.pbcPhoto {
+    width: 150px;
+    height: 150px;
+}
+
+.pbcCard {
+
+}
+
+.pbcItem {
+    margin-left: -15px;
+}
+
+.itemName {
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.itemDesc {
+    font-weight: bold;
+    color: black;
+}
+
+.hargaProduk {
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.btnBeli {
+    width: 80px;
+}
+
+.myProductItem {
+    margin-left: 50px;
+}

@@ -1,0 +1,59 @@
+.textImage{
+    text-align: center;
+    font-size: 30px;
+    color: #541212;
+    font-weight: 700;
+}
+
+.inputProduk{
+    position: absolute;
+    padding: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+    background-color: white;
+    align-items: center;
+}
+
+.itemProduk{
+   text-align: justify;
+   text-decoration: underline;
+   text-underline-position: under;
+   --background: #F1F1F1;
+}
+
+
+.cardImage{
+    text-align: center;
+    
+}
+
+.iconDown{
+    float: right;
+    position: absolute;
+    top: 5px;
+    right: 0px;
+}
+
+.buttonUpdate{
+    margin-top: 50px;
+    height:40px; 
+    width:200px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+    transform: translateX(-50%);
+    background-color: #82954B;
+    text-align: center;
+}
+
+.wrapper{
+    height: 770px;
+    background-color: #F1F1F1;
+    border: 2px solid;
+}
+
+.cardImage{
+    border: 2px solid;
+}

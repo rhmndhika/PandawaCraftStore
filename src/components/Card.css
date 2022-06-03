@@ -1,0 +1,19 @@
+.cards{
+    text-align: center;
+    background-color: #F1F1F1;
+    height: 240px;
+}
+
+.deskH{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.btnSel{
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 13px;
+}

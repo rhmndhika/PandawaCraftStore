@@ -1,0 +1,48 @@
+.midV {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.detailProduk{
+    text-align: justify;
+    color: grey;
+}
+
+.deskripsiProduk{
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    font-size: 16px;
+}
+.MnC {
+  color: black;
+  font-weight: bold;
+}
+
+.logo {
+  --border-radius: 0;
+  width: 80%;
+  margin-left: 5px;
+  margin-right: -5px;
+}
+
+/* h5 {
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+  }
+  h5:before, h5:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+  }
+  h5:before {
+    margin-right: 10px
+  }
+  h5:after {
+    margin-left: 10px
+  } */

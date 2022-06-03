@@ -1,0 +1,52 @@
+.button1{
+    width: 30px;
+    height: 30px;
+}
+
+.button2{
+    width: 30px;
+    height: 30px;
+}
+
+.produkCart{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(90%);
+    -ms-transform: translateY(100%);
+    transform: translateY(90%);
+}
+
+.count{
+    margin-left: 8px;
+    margin-right: 8px;
+     
+   
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+}
+
+.toolbar {
+    background-color: #F1F1F1;
+}
+
+.cartFinal {
+    text-align: center;
+    top: 80%;
+    position: absolute;
+    width: 100%;
+}
+
+.hargaTotal {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.btnBayar {
+    width: 60%;
+    margin-top: 15px;
+    --border-radius: 10px;
+    --background: black;
+}

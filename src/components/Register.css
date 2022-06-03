@@ -1,0 +1,71 @@
+.inputEmail{
+    position: absolute;
+    padding: absolute;
+    border: 2px;
+    border-radius: 10px;
+    width: 285px;
+    height: 50px;
+    font-size: 20px;
+    outline: none;
+    padding: 1rem;
+    background-color: #E4E9BE;
+    z-index: 1;
+    align-items: center;
+    display: inline-block;
+}
+
+.gridinput1{
+    padding: 15px 32px;
+    width: 350px;
+}
+
+.gridinput2{
+    display: block;
+    margin-top: 40px;
+    padding: 15px 32px;
+    width: 350px;
+}
+
+.gridinput3{
+    display: block;
+    margin-top: 40px;
+    padding: 15px 32px;
+    width: 350px;
+}
+
+.logoLogin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.textTitle{
+    text-align: center;
+}
+
+.buttonLogin{
+    margin-top: 50px;
+    height:50px; 
+    width:120px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+    transform: translateX(-50%);
+    background-color: #82954B;
+}
+
+.textDetail{
+   text-align: center;
+}
+
+
+
+.loginSeller{
+    text-align: center;
+}
+
+
+.textStore{
+    --background: #F1F1F1F1;
+}

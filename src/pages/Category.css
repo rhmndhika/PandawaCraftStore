@@ -1,0 +1,15 @@
+.toolbar {
+    --background: #F1F1F1;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.logo {
+    --border-radius: 0;
+    width: 80%;
+    margin-left: 5px;
+    margin-right: -5px;
+}

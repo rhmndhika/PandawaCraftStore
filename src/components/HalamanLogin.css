@@ -1,0 +1,50 @@
+.gambarLogo{
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.titleToko{
+    font-size: 35px;
+    color: #541212;
+    font-weight: 700;
+    background-color: #F1F1F1;
+}
+
+.gridbutton1{
+    top: 50%;
+    margin-top: 50px;
+    
+    width: 350px;
+}
+
+.gridbutton2{
+    
+    width: 350px;
+}
+
+.buttonLoginCos{
+    background-color: #82954B 
+}
+
+.buttonLoginSel{
+    background-color: #82954B 
+}
+
+/* ion-content{
+    --ion-background-color:#DDDDDD;
+}  */
+
+.item1{
+    text-align: center;
+}
+
+.body{
+--background: #F1F1F1;
+}
+
+.itemTitle {
+    --background: #F1F1F1;
+}

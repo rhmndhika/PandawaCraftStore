@@ -1,0 +1,63 @@
+.greeting {
+    font-weight: 900;
+    margin-left: 10%;
+}
+
+.sellerHomeCard1 {
+    height: 160px;
+    --background : #ADEFD1FF;
+    border-radius: 20px;
+}
+
+.sellerHomeCard2 {
+    height: 160px;
+    --background : #00203FFF;
+    border-radius: 20px;
+}
+
+.sellerHomeText1 {
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    color: #00203FFF;
+    font-weight: bold;
+}
+
+.sellerHomeText2 {
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    color: #ADEFD1FF;
+    font-weight: bold;
+}
+
+.containerHS {
+    background-color: #F1F1F1;
+    margin: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.toolbar {
+    background-color: #F1F1F1;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.logo {
+    --border-radius: 0;
+    width: 80%;
+    margin-left: 5px;
+    margin-right: -5px;
+}
